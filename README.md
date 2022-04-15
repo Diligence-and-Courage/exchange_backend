@@ -42,7 +42,7 @@ npm run parseQuotes
 npm run dev 
 ```
 
-## Техническое решение
+## Технические решение
 
 Построен на Node JS + Typescript + Express. Для авторизации используем jwt токен с id пользователя внури, чтобы не поднимать in-memory базу вроде redis.
 
