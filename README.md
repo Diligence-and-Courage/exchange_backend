@@ -1,5 +1,7 @@
 # Exchange Backend sever
 
+## [Ссылка на проект](https://besthack.alersh.ru/) 
+
 ## Запуск
 Создать базу данных Postgres и инициализировать ее данными из файла ./src/database/init.sql
 
